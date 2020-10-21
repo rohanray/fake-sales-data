@@ -1,115 +1,117 @@
-{"data":[
-  {
-    "collDate": "2020-04-09",
-    "cash": 37869.5
-  },
-  {
-    "collDate": "2020-04-10",
-    "cash": 52825.0
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-04-11"
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-04-12"
-  },
-  {
-    "collDate": "2020-04-13",
-    "cash": 51613.39
-  },
-  {
-    "collDate": "2020-04-14",
-    "cash": 302114.5
-  },
-  {
-    "collDate": "2020-04-15",
-    "cash": 67280
-  },
-  {
-    "collDate": "2020-04-16",
-    "cash": 507720
-  },
-  {
-    "collDate": "2020-04-17",
-    "cash": 179683.5
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-04-18"
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-04-19"
-  },
-  {
-    "collDate": "2020-04-20",
-    "cash": 111914.6
-  },
-  {
-    "collDate": "2020-04-21",
-    "cash": 217907
-  },
-  {
-    "collDate": "2020-04-22",
-    "cash": 83116.93
-  },
-   {
-    "collDate": "2020-05-09",
-    "cash": 37869.5
-  },
-  {
-    "collDate": "2020-05-10",
-    "cash": 52825.0
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-05-11"
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-05-12"
-  },
-  {
-    "collDate": "2020-05-13",
-    "cash": 51613.39
-  },
-  {
-    "collDate": "2020-05-14",
-    "cash": 302114.5
-  },
-  {
-    "collDate": "2020-05-15",
-    "cash": 67280
-  },
-  {
-    "collDate": "2020-05-16",
-    "cash": 507720
-  },
-  {
-    "collDate": "2020-05-17",
-    "cash": 179683.5
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-05-18"
-  },
-  {
-    "cash": 0,
-    "collDate": "2020-05-19"
-  },
-  {
-    "collDate": "2020-05-20",
-    "cash": 111914.6
-  },
-  {
-    "collDate": "2020-05-21",
-    "cash": 217907
-  },
-  {
-    "collDate": "2020-05-22",
-    "cash": 83116.93
-  }
-]
-}
+// {"data":[
+//   {
+//     "collDate": "2020-04-09",
+//     "cash": 37869.5
+//   },
+//   {
+//     "collDate": "2020-04-10",
+//     "cash": 52825.0
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-04-11"
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-04-12"
+//   },
+//   {
+//     "collDate": "2020-04-13",
+//     "cash": 51613.39
+//   },
+//   {
+//     "collDate": "2020-04-14",
+//     "cash": 302114.5
+//   },
+//   {
+//     "collDate": "2020-04-15",
+//     "cash": 67280
+//   },
+//   {
+//     "collDate": "2020-04-16",
+//     "cash": 507720
+//   },
+//   {
+//     "collDate": "2020-04-17",
+//     "cash": 179683.5
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-04-18"
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-04-19"
+//   },
+//   {
+//     "collDate": "2020-04-20",
+//     "cash": 111914.6
+//   },
+//   {
+//     "collDate": "2020-04-21",
+//     "cash": 217907
+//   },
+//   {
+//     "collDate": "2020-04-22",
+//     "cash": 83116.93
+//   },
+//    {
+//     "collDate": "2020-05-09",
+//     "cash": 37869.5
+//   },
+//   {
+//     "collDate": "2020-05-10",
+//     "cash": 52825.0
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-05-11"
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-05-12"
+//   },
+//   {
+//     "collDate": "2020-05-13",
+//     "cash": 51613.39
+//   },
+//   {
+//     "collDate": "2020-05-14",
+//     "cash": 302114.5
+//   },
+//   {
+//     "collDate": "2020-05-15",
+//     "cash": 67280
+//   },
+//   {
+//     "collDate": "2020-05-16",
+//     "cash": 507720
+//   },
+//   {
+//     "collDate": "2020-05-17",
+//     "cash": 179683.5
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-05-18"
+//   },
+//   {
+//     "cash": 0,
+//     "collDate": "2020-05-19"
+//   },
+//   {
+//     "collDate": "2020-05-20",
+//     "cash": 111914.6
+//   },
+//   {
+//     "collDate": "2020-05-21",
+//     "cash": 217907
+//   },
+//   {
+//     "collDate": "2020-05-22",
+//     "cash": 83116.93
+//   }
+// ]
+// }
+
+{"data":[{"trandate":"2020-04-01","sono":7220,"totalcash":14170,"echo":400,"ct":6000,"path":310,"consultation":240},{"trandate":"2020-04-02","sono":8400,"totalcash":9920,"echo":0,"ct":0,"path":640,"consultation":880},{"trandate":"2020-04-03","sono":3790,"totalcash":11490,"echo":0,"ct":6000,"path":1000,"consultation":700},{"trandate":"2020-04-04","sono":8080,"totalcash":15810,"echo":400,"ct":6000,"path":990,"consultation":340},{"trandate":"2020-04-05","sono":1030,"totalcash":2740,"echo":400,"ct":0,"path":520,"consultation":790},{"trandate":"2020-04-06","sono":6340,"totalcash":13630,"echo":0,"ct":6000,"path":890,"consultation":400},{"trandate":"2020-04-07","sono":9220,"totalcash":10070,"echo":0,"ct":0,"path":800,"consultation":50},{"trandate":"2020-04-08","sono":3320,"totalcash":3420,"echo":0,"ct":0,"path":60,"consultation":40},{"trandate":"2020-04-09","sono":2810,"totalcash":3040,"echo":0,"ct":0,"path":180,"consultation":50},{"trandate":"2020-04-10","sono":5050,"totalcash":12950,"echo":0,"ct":6000,"path":900,"consultation":1000},{"trandate":"2020-04-11","sono":3620,"totalcash":11360,"echo":400,"ct":6000,"path":380,"consultation":960},{"trandate":"2020-04-12","sono":9310,"totalcash":10190,"echo":400,"ct":0,"path":370,"consultation":110},{"trandate":"2020-04-13","sono":2680,"totalcash":10710,"echo":400,"ct":6000,"path":720,"consultation":910},{"trandate":"2020-04-14","sono":1780,"totalcash":2920,"echo":0,"ct":0,"path":600,"consultation":540},{"trandate":"2020-04-15","sono":1320,"totalcash":2790,"echo":0,"ct":0,"path":970,"consultation":500},{"trandate":"2020-04-16","sono":5970,"totalcash":13470,"echo":400,"ct":6000,"path":550,"consultation":550},{"trandate":"2020-04-17","sono":3040,"totalcash":10360,"echo":0,"ct":6000,"path":900,"consultation":420},{"trandate":"2020-04-18","sono":5040,"totalcash":12440,"echo":400,"ct":6000,"path":670,"consultation":330},{"trandate":"2020-04-19","sono":6800,"totalcash":8270,"echo":0,"ct":0,"path":700,"consultation":770},{"trandate":"2020-04-20","sono":7050,"totalcash":8150,"echo":400,"ct":0,"path":180,"consultation":520},{"trandate":"2020-04-21","sono":8140,"totalcash":9110,"echo":0,"ct":0,"path":420,"consultation":550},{"trandate":"2020-04-22","sono":5850,"totalcash":6970,"echo":400,"ct":0,"path":140,"consultation":580},{"trandate":"2020-04-23","sono":3300,"totalcash":4110,"echo":0,"ct":0,"path":390,"consultation":420},{"trandate":"2020-04-24","sono":6600,"totalcash":13790,"echo":0,"ct":6000,"path":970,"consultation":220},{"trandate":"2020-04-25","sono":3310,"totalcash":4360,"echo":0,"ct":0,"path":460,"consultation":590},{"trandate":"2020-04-26","sono":6370,"totalcash":14070,"echo":0,"ct":6000,"path":730,"consultation":970},{"trandate":"2020-04-27","sono":6070,"totalcash":13570,"echo":400,"ct":6000,"path":200,"consultation":900},{"trandate":"2020-04-28","sono":9080,"totalcash":15780,"echo":400,"ct":6000,"path":70,"consultation":230},{"trandate":"2020-04-29","sono":1730,"totalcash":3260,"echo":0,"ct":0,"path":950,"consultation":580},{"trandate":"2020-04-30","sono":1990,"totalcash":2490,"echo":0,"ct":0,"path":330,"consultation":170},{"trandate":"2020-05-01","sono":6980,"totalcash":7580,"echo":0,"ct":0,"path":240,"consultation":360},{"trandate":"2020-05-02","sono":630,"totalcash":8000,"echo":400,"ct":6000,"path":940,"consultation":30},{"trandate":"2020-05-03","sono":9430,"totalcash":16280,"echo":400,"ct":6000,"path":140,"consultation":310},{"trandate":"2020-05-04","sono":4700,"totalcash":6180,"echo":0,"ct":0,"path":670,"consultation":810},{"trandate":"2020-05-05","sono":9790,"totalcash":16230,"echo":0,"ct":6000,"path":210,"consultation":230},{"trandate":"2020-05-06","sono":4110,"totalcash":6240,"echo":400,"ct":0,"path":900,"consultation":830},{"trandate":"2020-05-07","sono":7610,"totalcash":9110,"echo":0,"ct":0,"path":810,"consultation":690},{"trandate":"2020-05-08","sono":9320,"totalcash":11020,"echo":400,"ct":0,"path":850,"consultation":450},{"trandate":"2020-05-09","sono":6360,"totalcash":14060,"echo":0,"ct":6000,"path":860,"consultation":840},{"trandate":"2020-05-10","sono":7760,"totalcash":9180,"echo":400,"ct":0,"path":920,"consultation":100},{"trandate":"2020-05-11","sono":3260,"totalcash":4500,"echo":400,"ct":0,"path":30,"consultation":810},{"trandate":"2020-05-12","sono":7420,"totalcash":14890,"echo":0,"ct":6000,"path":880,"consultation":590},{"trandate":"2020-05-13","sono":5220,"totalcash":7420,"echo":400,"ct":0,"path":900,"consultation":900},{"trandate":"2020-05-14","sono":440,"totalcash":7030,"echo":400,"ct":6000,"path":50,"consultation":140},{"trandate":"2020-05-15","sono":820,"totalcash":2540,"echo":0,"ct":0,"path":940,"consultation":780},{"trandate":"2020-05-16","sono":2200,"totalcash":9110,"echo":0,"ct":6000,"path":660,"consultation":250},{"trandate":"2020-05-17","sono":3700,"totalcash":5040,"echo":400,"ct":0,"path":450,"consultation":490},{"trandate":"2020-05-18","sono":7750,"totalcash":8610,"echo":400,"ct":0,"path":140,"consultation":320},{"trandate":"2020-05-19","sono":820,"totalcash":7930,"echo":0,"ct":6000,"path":410,"consultation":700},{"trandate":"2020-05-20","sono":9570,"totalcash":16190,"echo":0,"ct":6000,"path":500,"consultation":120},{"trandate":"2020-05-21","sono":1930,"totalcash":9000,"echo":400,"ct":6000,"path":270,"consultation":400},{"trandate":"2020-05-22","sono":8570,"totalcash":15320,"echo":400,"ct":6000,"path":80,"consultation":270},{"trandate":"2020-05-23","sono":7860,"totalcash":14100,"echo":0,"ct":6000,"path":80,"consultation":160},{"trandate":"2020-05-24","sono":5990,"totalcash":7700,"echo":400,"ct":0,"path":740,"consultation":570},{"trandate":"2020-05-25","sono":8030,"totalcash":9210,"echo":400,"ct":0,"path":690,"consultation":90},{"trandate":"2020-05-26","sono":1810,"totalcash":9080,"echo":0,"ct":6000,"path":300,"consultation":970},{"trandate":"2020-05-27","sono":7110,"totalcash":14850,"echo":400,"ct":6000,"path":510,"consultation":830},{"trandate":"2020-05-28","sono":7080,"totalcash":8320,"echo":0,"ct":0,"path":830,"consultation":410},{"trandate":"2020-05-29","sono":2010,"totalcash":8480,"echo":0,"ct":6000,"path":200,"consultation":270},{"trandate":"2020-05-30","sono":1700,"totalcash":8530,"echo":0,"ct":6000,"path":440,"consultation":390},{"trandate":"2020-05-31","sono":2020,"totalcash":2930,"echo":0,"ct":0,"path":120,"consultation":790},{"trandate":"2020-06-01","sono":2370,"totalcash":4500,"echo":400,"ct":0,"path":840,"consultation":890},{"trandate":"2020-06-02","sono":7430,"totalcash":15500,"echo":400,"ct":6000,"path":920,"consultation":750},{"trandate":"2020-06-03","sono":7940,"totalcash":14120,"echo":0,"ct":6000,"path":70,"consultation":110},{"trandate":"2020-06-04","sono":3340,"totalcash":5380,"echo":400,"ct":0,"path":810,"consultation":830},{"trandate":"2020-06-05","sono":9310,"totalcash":9920,"echo":400,"ct":0,"path":60,"consultation":150},{"trandate":"2020-06-06","sono":6370,"totalcash":7800,"echo":400,"ct":0,"path":270,"consultation":760},{"trandate":"2020-06-07","sono":1570,"totalcash":2970,"echo":400,"ct":0,"path":410,"consultation":590},{"trandate":"2020-06-08","sono":2870,"totalcash":3460,"echo":400,"ct":0,"path":40,"consultation":150},{"trandate":"2020-06-09","sono":8830,"totalcash":11090,"echo":400,"ct":0,"path":980,"consultation":880},{"trandate":"2020-06-10","sono":8050,"totalcash":15010,"echo":0,"ct":6000,"path":820,"consultation":140},{"trandate":"2020-06-11","sono":4600,"totalcash":5360,"echo":0,"ct":0,"path":320,"consultation":440},{"trandate":"2020-06-12","sono":6180,"totalcash":7790,"echo":400,"ct":0,"path":810,"consultation":400},{"trandate":"2020-06-13","sono":7620,"totalcash":14810,"echo":0,"ct":6000,"path":750,"consultation":440},{"trandate":"2020-06-14","sono":3350,"totalcash":10060,"echo":0,"ct":6000,"path":590,"consultation":120},{"trandate":"2020-06-15","sono":5390,"totalcash":5750,"echo":0,"ct":0,"path":10,"consultation":350},{"trandate":"2020-06-16","sono":4410,"totalcash":5980,"echo":400,"ct":0,"path":780,"consultation":390},{"trandate":"2020-06-17","sono":9760,"totalcash":16750,"echo":0,"ct":6000,"path":980,"consultation":10},{"trandate":"2020-06-18","sono":3880,"totalcash":5300,"echo":0,"ct":0,"path":940,"consultation":480},{"trandate":"2020-06-19","sono":250,"totalcash":7450,"echo":400,"ct":6000,"path":680,"consultation":120},{"trandate":"2020-06-20","sono":6740,"totalcash":8130,"echo":0,"ct":0,"path":690,"consultation":700},{"trandate":"2020-06-21","sono":8880,"totalcash":9750,"echo":0,"ct":0,"path":810,"consultation":60},{"trandate":"2020-06-22","sono":8900,"totalcash":16940,"echo":400,"ct":6000,"path":810,"consultation":830},{"trandate":"2020-06-23","sono":6520,"totalcash":14320,"echo":400,"ct":6000,"path":920,"consultation":480},{"trandate":"2020-06-24","sono":9340,"totalcash":10460,"echo":0,"ct":0,"path":480,"consultation":640},{"trandate":"2020-06-25","sono":7430,"totalcash":15060,"echo":400,"ct":6000,"path":420,"consultation":810},{"trandate":"2020-06-26","sono":8400,"totalcash":15840,"echo":400,"ct":6000,"path":330,"consultation":710},{"trandate":"2020-06-27","sono":8880,"totalcash":10320,"echo":400,"ct":0,"path":790,"consultation":250},{"trandate":"2020-06-28","sono":2200,"totalcash":3730,"echo":400,"ct":0,"path":130,"consultation":1000},{"trandate":"2020-06-29","sono":2570,"totalcash":2840,"echo":0,"ct":0,"path":260,"consultation":10},{"trandate":"2020-06-30","sono":8500,"totalcash":10410,"echo":400,"ct":0,"path":1000,"consultation":510},{"trandate":"2020-07-01","sono":2090,"totalcash":9950,"echo":0,"ct":6000,"path":880,"consultation":980},{"trandate":"2020-07-02","sono":5970,"totalcash":13080,"echo":0,"ct":6000,"path":270,"consultation":840},{"trandate":"2020-07-03","sono":7600,"totalcash":14090,"echo":0,"ct":6000,"path":240,"consultation":250},{"trandate":"2020-07-04","sono":4560,"totalcash":5470,"echo":0,"ct":0,"path":250,"consultation":660},{"trandate":"2020-07-05","sono":8330,"totalcash":15960,"echo":400,"ct":6000,"path":610,"consultation":620},{"trandate":"2020-07-06","sono":8520,"totalcash":15980,"echo":400,"ct":6000,"path":90,"consultation":970},{"trandate":"2020-07-07","sono":860,"totalcash":2360,"echo":0,"ct":0,"path":790,"consultation":710},{"trandate":"2020-07-08","sono":4410,"totalcash":5880,"echo":400,"ct":0,"path":980,"consultation":90},{"trandate":"2020-07-09","sono":9870,"totalcash":16470,"echo":0,"ct":6000,"path":450,"consultation":150},{"trandate":"2020-07-10","sono":6480,"totalcash":14480,"echo":400,"ct":6000,"path":790,"consultation":810},{"trandate":"2020-07-11","sono":9620,"totalcash":16310,"echo":0,"ct":6000,"path":600,"consultation":90},{"trandate":"2020-07-12","sono":5530,"totalcash":13160,"echo":400,"ct":6000,"path":560,"consultation":670},{"trandate":"2020-07-13","sono":80,"totalcash":7270,"echo":0,"ct":6000,"path":540,"consultation":650},{"trandate":"2020-07-14","sono":2420,"totalcash":9630,"echo":0,"ct":6000,"path":240,"consultation":970},{"trandate":"2020-07-15","sono":6270,"totalcash":12530,"echo":0,"ct":6000,"path":130,"consultation":130},{"trandate":"2020-07-16","sono":3690,"totalcash":10030,"echo":0,"ct":6000,"path":20,"consultation":320},{"trandate":"2020-07-17","sono":4320,"totalcash":11120,"echo":0,"ct":6000,"path":210,"consultation":590},{"trandate":"2020-07-18","sono":6370,"totalcash":7400,"echo":400,"ct":0,"path":330,"consultation":300},{"trandate":"2020-07-19","sono":5420,"totalcash":12940,"echo":0,"ct":6000,"path":970,"consultation":550},{"trandate":"2020-07-20","sono":9960,"totalcash":16810,"echo":0,"ct":6000,"path":620,"consultation":230},{"trandate":"2020-07-21","sono":1630,"totalcash":2790,"echo":400,"ct":0,"path":630,"consultation":130},{"trandate":"2020-07-22","sono":9820,"totalcash":10650,"echo":400,"ct":0,"path":10,"consultation":420},{"trandate":"2020-07-23","sono":540,"totalcash":8020,"echo":0,"ct":6000,"path":730,"consultation":750},{"trandate":"2020-07-24","sono":4400,"totalcash":11970,"echo":400,"ct":6000,"path":980,"consultation":190},{"trandate":"2020-07-25","sono":4620,"totalcash":6230,"echo":400,"ct":0,"path":540,"consultation":670},{"trandate":"2020-07-26","sono":7680,"totalcash":15230,"echo":0,"ct":6000,"path":720,"consultation":830},{"trandate":"2020-07-27","sono":5820,"totalcash":13160,"echo":400,"ct":6000,"path":430,"consultation":510},{"trandate":"2020-07-28","sono":8210,"totalcash":9340,"echo":400,"ct":0,"path":230,"consultation":500},{"trandate":"2020-07-29","sono":1090,"totalcash":9120,"echo":400,"ct":6000,"path":880,"consultation":750},{"trandate":"2020-07-30","sono":2530,"totalcash":10100,"echo":0,"ct":6000,"path":1000,"consultation":570},{"trandate":"2020-07-31","sono":3900,"totalcash":4870,"echo":0,"ct":0,"path":20,"consultation":950},{"trandate":"2020-08-01","sono":6780,"totalcash":14500,"echo":0,"ct":6000,"path":730,"consultation":990},{"trandate":"2020-08-02","sono":5290,"totalcash":7370,"echo":400,"ct":0,"path":710,"consultation":970},{"trandate":"2020-08-03","sono":9120,"totalcash":16130,"echo":0,"ct":6000,"path":1000,"consultation":10},{"trandate":"2020-08-04","sono":8520,"totalcash":9520,"echo":0,"ct":0,"path":590,"consultation":410},{"trandate":"2020-08-05","sono":9900,"totalcash":17720,"echo":400,"ct":6000,"path":930,"consultation":490},{"trandate":"2020-08-06","sono":6210,"totalcash":14060,"echo":400,"ct":6000,"path":460,"consultation":990},{"trandate":"2020-08-07","sono":940,"totalcash":8680,"echo":400,"ct":6000,"path":630,"consultation":710},{"trandate":"2020-08-08","sono":7640,"totalcash":8170,"echo":0,"ct":0,"path":210,"consultation":320},{"trandate":"2020-08-09","sono":1480,"totalcash":8690,"echo":0,"ct":6000,"path":800,"consultation":410},{"trandate":"2020-08-10","sono":5120,"totalcash":6450,"echo":400,"ct":0,"path":70,"consultation":860},{"trandate":"2020-08-11","sono":8780,"totalcash":9600,"echo":400,"ct":0,"path":210,"consultation":210},{"trandate":"2020-08-12","sono":2780,"totalcash":10160,"echo":400,"ct":6000,"path":760,"consultation":220},{"trandate":"2020-08-13","sono":9540,"totalcash":16910,"echo":0,"ct":6000,"path":920,"consultation":450},{"trandate":"2020-08-14","sono":8140,"totalcash":8910,"echo":0,"ct":0,"path":400,"consultation":370},{"trandate":"2020-08-15","sono":1930,"totalcash":3540,"echo":400,"ct":0,"path":290,"consultation":920},{"trandate":"2020-08-16","sono":7390,"totalcash":7970,"echo":0,"ct":0,"path":220,"consultation":360},{"trandate":"2020-08-17","sono":8270,"totalcash":9450,"echo":400,"ct":0,"path":280,"consultation":500},{"trandate":"2020-08-18","sono":4760,"totalcash":11610,"echo":0,"ct":6000,"path":280,"consultation":570},{"trandate":"2020-08-19","sono":9560,"totalcash":10950,"echo":400,"ct":0,"path":700,"consultation":290},{"trandate":"2020-08-20","sono":6980,"totalcash":8300,"echo":400,"ct":0,"path":230,"consultation":690},{"trandate":"2020-08-21","sono":3710,"totalcash":11190,"echo":400,"ct":6000,"path":400,"consultation":680},{"trandate":"2020-08-22","sono":6190,"totalcash":7120,"echo":0,"ct":0,"path":60,"consultation":870},{"trandate":"2020-08-23","sono":5930,"totalcash":6730,"echo":0,"ct":0,"path":570,"consultation":230},{"trandate":"2020-08-24","sono":5990,"totalcash":13790,"echo":400,"ct":6000,"path":500,"consultation":900},{"trandate":"2020-08-25","sono":6990,"totalcash":8270,"echo":400,"ct":0,"path":630,"consultation":250},{"trandate":"2020-08-26","sono":7600,"totalcash":14630,"echo":400,"ct":6000,"path":110,"consultation":520},{"trandate":"2020-08-27","sono":4140,"totalcash":4260,"echo":0,"ct":0,"path":70,"consultation":50},{"trandate":"2020-08-28","sono":5940,"totalcash":13190,"echo":0,"ct":6000,"path":690,"consultation":560},{"trandate":"2020-08-29","sono":5780,"totalcash":13630,"echo":400,"ct":6000,"path":870,"consultation":580},{"trandate":"2020-08-30","sono":1340,"totalcash":1600,"echo":0,"ct":0,"path":140,"consultation":120},{"trandate":"2020-08-31","sono":2400,"totalcash":3930,"echo":0,"ct":0,"path":540,"consultation":990},{"trandate":"2020-09-01","sono":290,"totalcash":6520,"echo":0,"ct":6000,"path":70,"consultation":160},{"trandate":"2020-09-02","sono":290,"totalcash":1380,"echo":0,"ct":0,"path":300,"consultation":790},{"trandate":"2020-09-03","sono":1940,"totalcash":9460,"echo":400,"ct":6000,"path":540,"consultation":580},{"trandate":"2020-09-04","sono":390,"totalcash":8540,"echo":400,"ct":6000,"path":780,"consultation":970},{"trandate":"2020-09-05","sono":1180,"totalcash":8250,"echo":0,"ct":6000,"path":280,"consultation":790},{"trandate":"2020-09-06","sono":3810,"totalcash":10740,"echo":400,"ct":6000,"path":230,"consultation":300},{"trandate":"2020-09-07","sono":3230,"totalcash":10670,"echo":0,"ct":6000,"path":520,"consultation":920},{"trandate":"2020-09-08","sono":4330,"totalcash":6140,"echo":400,"ct":0,"path":490,"consultation":920},{"trandate":"2020-09-09","sono":1900,"totalcash":9160,"echo":0,"ct":6000,"path":980,"consultation":280},{"trandate":"2020-09-10","sono":1420,"totalcash":2160,"echo":0,"ct":0,"path":450,"consultation":290},{"trandate":"2020-09-11","sono":3440,"totalcash":4660,"echo":400,"ct":0,"path":140,"consultation":680},{"trandate":"2020-09-12","sono":4910,"totalcash":11220,"echo":0,"ct":6000,"path":30,"consultation":280},{"trandate":"2020-09-13","sono":7850,"totalcash":7960,"echo":0,"ct":0,"path":20,"consultation":90},{"trandate":"2020-09-14","sono":480,"totalcash":7550,"echo":400,"ct":6000,"path":620,"consultation":50},{"trandate":"2020-09-15","sono":6930,"totalcash":13580,"echo":0,"ct":6000,"path":490,"consultation":160},{"trandate":"2020-09-16","sono":9470,"totalcash":10290,"echo":0,"ct":0,"path":220,"consultation":600},{"trandate":"2020-09-17","sono":2830,"totalcash":10010,"echo":0,"ct":6000,"path":860,"consultation":320},{"trandate":"2020-09-18","sono":5410,"totalcash":6660,"echo":400,"ct":0,"path":280,"consultation":570},{"trandate":"2020-09-19","sono":450,"totalcash":1100,"echo":0,"ct":0,"path":90,"consultation":560},{"trandate":"2020-09-20","sono":9400,"totalcash":10110,"echo":400,"ct":0,"path":140,"consultation":170},{"trandate":"2020-09-21","sono":6180,"totalcash":14150,"echo":400,"ct":6000,"path":760,"consultation":810},{"trandate":"2020-09-22","sono":2710,"totalcash":3820,"echo":0,"ct":0,"path":750,"consultation":360},{"trandate":"2020-09-23","sono":9220,"totalcash":16150,"echo":0,"ct":6000,"path":780,"consultation":150},{"trandate":"2020-09-24","sono":9770,"totalcash":11470,"echo":400,"ct":0,"path":920,"consultation":380},{"trandate":"2020-09-25","sono":5240,"totalcash":12440,"echo":400,"ct":6000,"path":360,"consultation":440},{"trandate":"2020-09-26","sono":1460,"totalcash":3290,"echo":400,"ct":0,"path":840,"consultation":590},{"trandate":"2020-09-27","sono":9260,"totalcash":16080,"echo":400,"ct":6000,"path":320,"consultation":100},{"trandate":"2020-09-28","sono":1610,"totalcash":9000,"echo":0,"ct":6000,"path":720,"consultation":670},{"trandate":"2020-09-29","sono":280,"totalcash":7040,"echo":400,"ct":6000,"path":160,"consultation":200},{"trandate":"2020-09-30","sono":8560,"totalcash":15550,"echo":0,"ct":6000,"path":20,"consultation":970},{"trandate":"2020-10-01","sono":5270,"totalcash":5550,"echo":0,"ct":0,"path":260,"consultation":20},{"trandate":"2020-10-02","sono":3910,"totalcash":11220,"echo":0,"ct":6000,"path":550,"consultation":760},{"trandate":"2020-10-03","sono":6210,"totalcash":7350,"echo":400,"ct":0,"path":560,"consultation":180},{"trandate":"2020-10-04","sono":6810,"totalcash":14320,"echo":400,"ct":6000,"path":610,"consultation":500},{"trandate":"2020-10-05","sono":6790,"totalcash":14840,"echo":400,"ct":6000,"path":870,"consultation":780},{"trandate":"2020-10-06","sono":1340,"totalcash":8180,"echo":400,"ct":6000,"path":400,"consultation":40},{"trandate":"2020-10-07","sono":9920,"totalcash":11560,"echo":400,"ct":0,"path":360,"consultation":880},{"trandate":"2020-10-08","sono":1200,"totalcash":1550,"echo":0,"ct":0,"path":200,"consultation":150},{"trandate":"2020-10-09","sono":9780,"totalcash":10880,"echo":0,"ct":0,"path":250,"consultation":850},{"trandate":"2020-10-10","sono":7130,"totalcash":8330,"echo":400,"ct":0,"path":310,"consultation":490},{"trandate":"2020-10-11","sono":1170,"totalcash":9330,"echo":400,"ct":6000,"path":900,"consultation":860},{"trandate":"2020-10-12","sono":5220,"totalcash":12280,"echo":400,"ct":6000,"path":570,"consultation":90},{"trandate":"2020-10-13","sono":8570,"totalcash":15960,"echo":400,"ct":6000,"path":10,"consultation":980},{"trandate":"2020-10-14","sono":8810,"totalcash":9970,"echo":400,"ct":0,"path":330,"consultation":430},{"trandate":"2020-10-15","sono":5190,"totalcash":12390,"echo":400,"ct":6000,"path":130,"consultation":670},{"trandate":"2020-10-16","sono":5210,"totalcash":5590,"echo":0,"ct":0,"path":150,"consultation":230},{"trandate":"2020-10-17","sono":2250,"totalcash":3650,"echo":400,"ct":0,"path":920,"consultation":80},{"trandate":"2020-10-18","sono":9360,"totalcash":16710,"echo":400,"ct":6000,"path":880,"consultation":70},{"trandate":"2020-10-19","sono":6830,"totalcash":14170,"echo":0,"ct":6000,"path":540,"consultation":800},{"trandate":"2020-10-20","sono":3580,"totalcash":4470,"echo":0,"ct":0,"path":110,"consultation":780}]}
